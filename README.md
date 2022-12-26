@@ -9,7 +9,7 @@ Node.js
 MongoDB
 
 # Installing
-Clone the repository: git clone https://github.com/your-username/blog-api.git
+Clone the repository: git clone https://github.com/Kyaw-Zin-Thant/node-express-blog.git
 
 Install the dependencies: npm install
 
